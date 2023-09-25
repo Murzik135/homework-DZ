@@ -32,7 +32,7 @@ export const HW1 = () => {
 		{id: 10, name: 'Emily', age: 55, address: {street: '765 Aspen Blvd', city: 'Los Angeles'}},
 	];
 
-	return (
+	return  (
 		<div id={'hw01'}>
 			<UserList users={users} />
 		</div>
